@@ -1,0 +1,16 @@
+﻿<psm:MvvmAppBase
+    x:Class="MedicalInterview.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MedicalInterview"
+    xmlns:localData="using:MedicalInterview.Data"
+    xmlns:psm="using:Microsoft.Practices.Prism.StoreApps">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">MedicalInterview</x:String>
+
+    </Application.Resources>
+</psm:MvvmAppBase>

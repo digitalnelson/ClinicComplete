@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Prism.StoreApps</id>
+    <version>1.0.1</version>
+    <title>Prism.StoreApps</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://prismwindowsruntime.codeplex.com/license</licenseUrl>
+    <projectUrl>http://prismwindowsruntime.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>The Microsoft.Practices.Prism.StoreApps library helps to bootstrap MVVM apps, manage state, perform validation of user input, perform navigation, implement data binding, commands, Flyouts, settings, and search.</description>
+    <releaseNotes>This release includes source code that targets .NET for Windows Store apps.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <language />
+    <tags>Microsoft patterns practices Windows Store apps MVVM prism winrt windows runtime storeapps</tags>
+  </metadata>
+</package>
